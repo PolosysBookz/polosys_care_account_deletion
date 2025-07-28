@@ -5,9 +5,9 @@ import HomePage from "@/components/home-page/HomePage";
 
 const inter = Inter({ subsets: ["latin"] });
 
-const title = "MAZRA";
-const description = "MAZRA";
-const keywords = "MAZRA";
+const title = "PolosysCare";
+const description = "PolosysCare";
+const keywords = "PolosysCare";
 
 export default function Home() {
     return (
